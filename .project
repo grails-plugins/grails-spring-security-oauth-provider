@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>grails-spring-security-oauth-provider</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.springsource.sts.grails.core.nature</nature>
+		<nature>org.eclipse.jdt.groovy.core.groovyNature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>spring-security-core-0.4.1-grails-app-conf</name>
+			<type>2</type>
+			<locationURI>DOTGRAILS/1.2.3/projects/spring-security-oauth-provider/plugins/spring-security-core-0.4.1/grails-app/conf</locationURI>
+		</link>
+		<link>
+			<name>spring-security-core-0.4.1-grails-app-services</name>
+			<type>2</type>
+			<locationURI>DOTGRAILS/1.2.3/projects/spring-security-oauth-provider/plugins/spring-security-core-0.4.1/grails-app/services</locationURI>
+		</link>
+		<link>
+			<name>spring-security-core-0.4.1-grails-app-taglib</name>
+			<type>2</type>
+			<locationURI>DOTGRAILS/1.2.3/projects/spring-security-oauth-provider/plugins/spring-security-core-0.4.1/grails-app/taglib</locationURI>
+		</link>
+		<link>
+			<name>spring-security-core-0.4.1-src-groovy</name>
+			<type>2</type>
+			<locationURI>DOTGRAILS/1.2.3/projects/spring-security-oauth-provider/plugins/spring-security-core-0.4.1/src/groovy</locationURI>
+		</link>
+		<link>
+			<name>spring-security-core-0.4.1-src-java</name>
+			<type>2</type>
+			<locationURI>DOTGRAILS/1.2.3/projects/spring-security-oauth-provider/plugins/spring-security-core-0.4.1/src/java</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
